@@ -1,10 +1,40 @@
 
-[![](https://raw.githubusercontent.com/JDruki/JDruki/main/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Summary Cards</title>
+    <style>
+        img {
+            width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img src="https://raw.githubusercontent.com/JDruki/JDruki/main/profile-summary-card-output/blueberry/0-profile-details.svg" />
+    </a>
 
-[![](https://raw.githubusercontent.com/JDruki/JDruki/main/profile-summary-card-output/blueberry/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/JDruki/JDruki/main/profile-summary-card-output/blueberry/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/JDruki/JDruki/main/profile-summary-card-output/blueberry/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/JDruki/JDruki/main/profile-summary-card-output/blueberry/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img src="https://raw.githubusercontent.com/JDruki/JDruki/main/profile-summary-card-output/blueberry/1-repos-per-language.svg" />
+    </a>
+
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img src="https://raw.githubusercontent.com/JDruki/JDruki/main/profile-summary-card-output/blueberry/2-most-commit-language.svg" />
+    </a>
+
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img src="https://raw.githubusercontent.com/JDruki/JDruki/main/profile-summary-card-output/blueberry/3-stats.svg" />
+    </a>
+
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img src="https://raw.githubusercontent.com/JDruki/JDruki/main/profile-summary-card-output/blueberry/4-productive-time.svg" />
+    </a>
+</body>
+</html>
+
 
 
 
