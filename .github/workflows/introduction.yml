@@ -12,7 +12,7 @@ jobs:
       - name: Display Introduction
         uses: lowlighter/metrics@latest
         with:
-          filename: introduction.svg
+          filename: assets/introduction.svg
           token: ${{ secrets.TOKEN }}
           plugin_introduction: true
 
