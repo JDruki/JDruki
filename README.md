@@ -1,3 +1,8 @@
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/JDruki/JDruki/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Docker网络问题浅析](https://blog.resoras.com/archives/docker_network)
