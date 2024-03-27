@@ -1,9 +1,9 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 JDruki.
 ---
 
-[] I am a college student currently living in Hangzhou. You can find more on my product site.
+[ ] I am a college student currently living in Hangzhou. You can find more on my product site.
 
-[] Latest Blog Posts:
+[ ] Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Docker网络问题浅析](https://blog.resoras.com/archives/docker_network)
 - [反向代理-Traefik和Nginx及其双重代理](https://blog.resoras.com/archives/1710507513966)
