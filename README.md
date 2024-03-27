@@ -4,8 +4,8 @@
 I am a college student currently living in Hangzhou. You can find more on my product site.
 
 
-## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](logseq://graph/Blog?page=%E6%8A%80%E6%9C%AF%E6%A0%88)
----
+## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://blog.resoras.com/#/page/%E6%8A%80%E6%9C%AF%E6%A0%88)
+
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
