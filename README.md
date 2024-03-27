@@ -35,3 +35,6 @@ Latest Blog Posts:
 
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
+
+###  Recent Activity
+<!--START_SECTION:activity-->
