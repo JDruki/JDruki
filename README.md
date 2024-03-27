@@ -3,6 +3,11 @@
 
 I am a college student currently living in Hangzhou. You can find more on my product site.
 
+Blog Categories:
+
+- [Docker](https://blog.resoras.com/#/page/docker)
+- [Kubernetes](https://blog.resoras.com/)
+
 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Docker网络问题浅析](https://blog.resoras.com/archives/docker_network)
