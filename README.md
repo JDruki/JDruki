@@ -38,3 +38,7 @@ Latest Blog Posts:
 
 ###  Recent Activity
 <!--START_SECTION:activity-->
+
+### readme-info
+<!--START_SECTION:readme-info-->
+<!--END_SECTION:readme-info-->
