@@ -1,19 +1,23 @@
 [![](https://raw.githubusercontent.com/JDruki/JDruki/main/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ---
+
+
+
+# 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+---
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,anaconda,arduino,c,cpp,clion,cloudflare,css,discord,docker,figma,flutter,github,git,gmail,go,idea,kotlin,kubernetes,latex,linux,md,mastodon,mongodb,mysql,nginx,npm,obsidian,postgres,pycharm,py,rabbitmq,raspberrypi,react,redis,sqlite,vim,vercel,vue,webstorm" />
+  </a>
+</p>
+
+
 [![](https://raw.githubusercontent.com/JDruki/JDruki/main/profile-summary-card-output/blueberry/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 [![](https://raw.githubusercontent.com/JDruki/JDruki/main/profile-summary-card-output/blueberry/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/JDruki/JDruki/main/profile-summary-card-output/blueberry/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 [![](https://raw.githubusercontent.com/JDruki/JDruki/main/profile-summary-card-output/blueberry/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-
-
-# Icon
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,anaconda,arduino,c,cpp,clion,cloudflare,css,discord,docker,figma,flutter,github,git,gmail,go,idea,kotlin,kubernetes,latex,linux,md,mastodon,mongodb,mysql,nginx,npm,obsidian,postgres,pycharm,py,rabbitmq,raspberrypi,react,redis,sqlite,vim,vercel,vue,webstorm" />
-  </a>
-</p>
 
 
 # Blog Posts
