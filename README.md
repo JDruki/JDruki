@@ -1,6 +1,8 @@
 
 </p>[![](https://raw.githubusercontent.com/JDruki/JDruki/main/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 ---
+
 I am a college student currently living in Hangzhou. You can find more on my product site.
 
 
