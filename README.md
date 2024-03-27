@@ -1,18 +1,11 @@
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,anaconda,arduino,c,cpp,clion,cloudflare,css,discord,docker,figma,flutter,github,git,gmail,go,idea,kotlin,kubernetes,latex,linux,md,mastodon,mongodb,mysql,nginx,npm,obsidian,postgres,pycharm,py,rabbitmq,raspberrypi,react,redis,sqlite,vim,vercel,vue,webstorm" />
-  </a>
+
 </p>[![](https://raw.githubusercontent.com/JDruki/JDruki/main/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ---
+I am a college student currently living in Hangzhou. You can find more on my product site.
 
 
-
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](logseq://graph/Blog?page=%E6%8A%80%E6%9C%AF%E6%A0%88)
 ---
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,anaconda,arduino,c,cpp,clion,cloudflare,css,discord,docker,figma,flutter,github,git,gmail,go,idea,kotlin,kubernetes,latex,linux,md,mastodon,mongodb,mysql,nginx,npm,obsidian,postgres,pycharm,py,rabbitmq,raspberrypi,react,redis,sqlite,vim,vercel,vue,webstorm" />
-  </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
