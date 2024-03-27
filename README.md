@@ -1,7 +1,16 @@
-[![](https://raw.githubusercontent.com/JDruki/JDruki/main/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+# Hi everyone, I am JDruki.
 ---
 
 I am a college student currently living in Hangzhou. You can find more on my product site.
+
+Latest Blog Posts:
+<!-- BLOG-POST-LIST:START -->
+- [Docker网络问题浅析](https://blog.resoras.com/archives/docker_network)
+- [反向代理-Traefik和Nginx及其双重代理](https://blog.resoras.com/archives/1710507513966)
+- [Docker数据持久化](https://blog.resoras.com/archives/1710341645761)
+- [VI编辑器常用快捷键](https://blog.resoras.com/archives/1710343579304)
+- [Docker基本语法简要讲解](https://blog.resoras.com/archives/1710919969829)
+<!-- BLOG-POST-LIST:END -->
 
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://blog.resoras.com/#/page/%E6%8A%80%E6%9C%AF%E6%A0%88)
@@ -20,12 +29,6 @@ I am a college student currently living in Hangzhou. You can find more on my pro
 
 
 
+[![](https://raw.githubusercontent.com/JDruki/JDruki/main/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-# Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Docker网络问题浅析](https://blog.resoras.com/archives/docker_network)
-- [反向代理-Traefik和Nginx及其双重代理](https://blog.resoras.com/archives/1710507513966)
-- [Docker数据持久化](https://blog.resoras.com/archives/1710341645761)
-- [VI编辑器常用快捷键](https://blog.resoras.com/archives/1710343579304)
-- [Docker基本语法简要讲解](https://blog.resoras.com/archives/1710919969829)
-<!-- BLOG-POST-LIST:END -->
+
