@@ -120,4 +120,4 @@ Latest Blog Posts:
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="JDruki's Activity Graph" src="https://github-readme-activity-graph-sigma-three.vercel.app/graph/?username=JDruki&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="JDruki's Activity Graph" src="https://ashutosh00710.github.io/github-readme-activity-graph/graph/?username=JDruki&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
