@@ -21,6 +21,8 @@ Here are some ideas to get you started:
     <img src="./imgs/hands.webp" width="25px">
 </h3>
 
+<!-- code.gif -->
+<img align="right" alt="GIF" src="https://github.com/pudongping/pudongping/blob/main/imgs/code.gif?raw=true" width="500" height="320" />
 
 Blog Categories:
 
