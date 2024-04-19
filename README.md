@@ -95,6 +95,8 @@
     <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-56c1eb?logo=WebStorm&logoColor=ffffff" /></a>
 </p>
 
+## 🔥 My Blogs:
+
 Blog Categories:
 
 - [Docker](https://blog.resoras.com/#/page/docker)
@@ -108,16 +110,6 @@ Latest Blog Posts:
 - [VI编辑器常用快捷键](https://blog.resoras.com/archives/1710343579304)
 - [Docker基本语法简要讲解](https://blog.resoras.com/archives/1710919969829)
 <!-- BLOG-POST-LIST:END -->
-
-
-## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://blog.resoras.com/#/page/%E6%8A%80%E6%9C%AF%E6%A0%88)
-
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,anaconda,arduino,c,cpp,clion,cloudflare,css,discord,docker,figma,flutter,github,git,gmail,go,idea,kotlin,kubernetes,latex,linux,md,mastodon,mongodb,mysql,nginx,npm,obsidian,postgres,pycharm,py,rabbitmq,raspberrypi,react,redis,sqlite,vim,vercel,vue,webstorm" />
-  </a>
-</p>
 
 ## 𝗦𝘁𝗮𝘁𝘀 for nerds
 
