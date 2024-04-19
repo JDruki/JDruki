@@ -1,7 +1,26 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 JDruki.
 ---
 
-I am a college student currently living in Hangzhou. You can find more on my product site.
+<!--
+**pudongping/pudongping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<h3 align="center">
+    Hi~ Thank you for coming!
+    <img src="./imgs/hands.webp" width="25px">
+</h3>
+
 
 Blog Categories:
 
