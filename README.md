@@ -111,14 +111,4 @@ Latest Blog Posts:
 
 [![](https://raw.githubusercontent.com/JDruki/JDruki/main/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-### Todoist Stats
-
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
-
-###  Recent Activity
-<!--START_SECTION:activity-->
-
-### readme-info
-<!--START_SECTION:readme-info-->
-<!--END_SECTION:readme-info-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDruki)](https://github.com/anuraghazra/github-readme-stats)
