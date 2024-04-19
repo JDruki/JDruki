@@ -1,5 +1,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true%C2%A0%E7%9C%9F%E7%9A%84&vCenter=true%C2%A0%E7%9C%9F%E7%9A%84&repeat=true%C2%A0%E7%9C%9F%E7%9A%84&random=false%C2%A0%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=I'm+JDruki;+Hi~+Thank+you+for+coming!+" alt="Typing SVG" /></a>
+[![](https://raw.githubusercontent.com/JDruki/JDruki/main/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 𝙃𝙞, 𝙄'𝙢 ✨𝙅𝘿𝙧𝙪𝙠𝙞✨🥷🏻, 𝙖 𝙘𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙨𝙘𝙞𝙚𝙣𝙘𝙚 𝙖𝙣𝙙 𝙩𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙮 𝙨𝙩𝙪𝙙𝙚𝙣𝙩 𝙛𝙧𝙤𝙢 𝘾𝙝𝙞𝙣𝙖 𝙬𝙝𝙤 𝙖𝙨𝙥𝙞𝙧𝙚𝙨 𝙩𝙤 𝙗𝙚𝙘𝙤𝙢𝙚 𝙖 𝙘𝙡𝙤𝙪𝙙-𝙣𝙖𝙩𝙞𝙫𝙚 𝙛𝙪𝙡𝙡-𝙨𝙩𝙖𝙘𝙠 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧. 𝙄'𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙨𝙩𝙪𝙙𝙮𝙞𝙣𝙜 𝙞𝙣 𝙃𝙖𝙣𝙜𝙯𝙝𝙤𝙪. 𝙄'𝙢 𝙙𝙚𝙙𝙞𝙘𝙖𝙩𝙚𝙙 𝙩𝙤 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙖𝙣𝙙 𝙥𝙧𝙖𝙘𝙩𝙞𝙘𝙞𝙣𝙜 𝙫𝙖𝙧𝙞𝙤𝙪𝙨 𝙤𝙥𝙚𝙣 𝙨𝙤𝙪𝙧𝙘𝙚 𝙩𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨 𝙬𝙝𝙞𝙡𝙚 𝙖𝙡𝙨𝙤 𝙘𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙞𝙣𝙜 𝙩𝙤 𝙤𝙥𝙚𝙣 𝙨𝙤𝙪𝙧𝙘𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩 𝙢𝙖𝙞𝙣𝙩𝙚𝙣𝙖𝙣𝙘𝙚. 𝙄 𝙥𝙡𝙖𝙘𝙚 𝙜𝙧𝙚𝙖𝙩 𝙚𝙢𝙥𝙝𝙖𝙨𝙞𝙨 𝙤𝙣 𝙘𝙤𝙙𝙚 𝙦𝙪𝙖𝙡𝙞𝙩𝙮 𝙖𝙣𝙙 𝙖𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩𝙪𝙧𝙚 𝙙𝙚𝙨𝙞𝙜𝙣. 𝙄'𝙢 𝙖𝙣 𝙤𝙥𝙚𝙣 𝙨𝙤𝙪𝙧𝙘𝙚 𝙚𝙣𝙩𝙝𝙪𝙨𝙞𝙖𝙨𝙩.
 
@@ -108,8 +109,6 @@ Latest Blog Posts:
 <!-- BLOG-POST-LIST:END -->
 
 ## 𝗦𝘁𝗮𝘁𝘀 for nerds
-
-[![](https://raw.githubusercontent.com/JDruki/JDruki/main/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
   <h3>💻 GitHub Profile Stats</h3>
 
