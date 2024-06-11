@@ -101,6 +101,8 @@ Blog Categories:
 
 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [将Tailscale和代理共用](https://pgyhmdlqugej.bja.sealos.run/posts/%E6%8A%98%E8%85%BE%E6%97%A5%E8%AE%B0/%E5%B0%86tailscale%E5%92%8C%E4%BB%A3%E7%90%86%E5%85%B1%E7%94%A8/)
+- [部署Piped隐私访问Youtube](https://pgyhmdlqugej.bja.sealos.run/posts/%E6%8A%98%E8%85%BE%E6%97%A5%E8%AE%B0/%E9%83%A8%E7%BD%B2piped%E9%9A%90%E7%A7%81%E8%AE%BF%E9%97%AEyoutube/)
 - [Vim使用教程](https://pgyhmdlqugej.bja.sealos.run/posts/linux/vim%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/)
 - [Docker](https://pgyhmdlqugej.bja.sealos.run/posts/%E5%AE%B9%E5%99%A8/docker/)
 <!-- BLOG-POST-LIST:END -->
