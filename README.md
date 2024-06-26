@@ -98,6 +98,7 @@ Blog Categories:
 
 - [Docker](https://blog.resoras.com/#/page/docker)
 - [Kubernetes](https://blog.resoras.com/)
+- [Goland学习笔记](https://wiki.loveblancs.com/s/a73dfeb8-cdbc-4164-b625-03553c3a74b4)
 
 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
