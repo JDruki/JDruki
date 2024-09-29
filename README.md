@@ -102,11 +102,11 @@ Blog Categories:
 
 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [RSS认证](https://blog.loveblancs.com/posts/linux/auth/)
 - [Gitea部署](https://blog.loveblancs.com/posts/%E6%8A%98%E8%85%BE%E6%97%A5%E8%AE%B0/gitea%E9%83%A8%E7%BD%B2/)
 - [Podman](https://blog.loveblancs.com/posts/%E5%AE%B9%E5%99%A8/podman/)
 - [将Tailscale和代理共用](https://blog.loveblancs.com/posts/%E6%8A%98%E8%85%BE%E6%97%A5%E8%AE%B0/%E5%B0%86tailscale%E5%92%8C%E4%BB%A3%E7%90%86%E5%85%B1%E7%94%A8/)
 - [部署Piped隐私访问Youtube](https://blog.loveblancs.com/posts/%E6%8A%98%E8%85%BE%E6%97%A5%E8%AE%B0/%E9%83%A8%E7%BD%B2piped%E9%9A%90%E7%A7%81%E8%AE%BF%E9%97%AEyoutube/)
-- [部署Traefik](https://blog.loveblancs.com/posts/%E6%8A%98%E8%85%BE%E6%97%A5%E8%AE%B0/%E9%83%A8%E7%BD%B2traefik/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻𝗦𝘁𝗮𝘁𝘀 for nerds
