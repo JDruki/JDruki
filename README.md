@@ -102,11 +102,7 @@ Blog Categories:
 
 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Traefik使用CF证书](https://blog.loveblancs.com/posts/traefik%E4%BD%BF%E7%94%A8cf%E8%AF%81%E4%B9%A6/)
-- [RSS认证](https://blog.loveblancs.com/posts/linux/auth/)
-- [深入理解容器沟通](https://blog.loveblancs.com/posts/%E6%8A%98%E8%85%BE%E6%97%A5%E8%AE%B0/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E5%AE%B9%E5%99%A8%E9%97%B4%E6%B2%9F%E9%80%9A/)
-- [Gitea部署](https://blog.loveblancs.com/posts/%E6%8A%98%E8%85%BE%E6%97%A5%E8%AE%B0/gitea%E9%83%A8%E7%BD%B2/)
-- [Podman](https://blog.loveblancs.com/posts/%E5%AE%B9%E5%99%A8/podman/)
+- [Docker](/feed/1)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻𝗦𝘁𝗮𝘁𝘀 for nerds
